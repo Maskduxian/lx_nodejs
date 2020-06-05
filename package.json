@@ -1,0 +1,30 @@
+{
+  "name": "node_mask",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^7.1.0",
+    "pre-commit": "^1.2.2"
+  },
+  "scripts": {
+    "lint": "eslint .",
+    "fix": "eslint --fix .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "pre-commit": [
+    "fix",
+    "lint"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maskduxian/lx_nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maskduxian/lx_nodejs/issues"
+  },
+  "homepage": "https://github.com/Maskduxian/lx_nodejs#readme"
+}
