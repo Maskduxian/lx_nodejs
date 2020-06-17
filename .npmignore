@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 test
 .editorconfig
 .eslintignore
 .eslintrc.js
+=======
+node_modules
+src
+test
+>>>>>>> 527ada64872e09e6480b34789522eaa8fd733f33
