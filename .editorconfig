@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 root=ture
 [*]
 charset=utf-8
@@ -9,16 +8,5 @@ end_of_line=lf
 insert_final_newline=ture
 trim_trailing_whiteespace=ture
 [*.json]
-=======
-root=ture
-[*]
-charset=utf-8
-indent_style=space
-indent_size=2
 
-end_of_line=lf
-insert_final_newline=ture
-trim_trailing_whiteespace=ture
-[*.json]
->>>>>>> 527ada64872e09e6480b34789522eaa8fd733f33
 indent_size=4

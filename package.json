@@ -7,7 +7,7 @@
     "node_mask": "bin/node_mask.js"
   },
   "dependencies": {
-    "chalk": "^4.0.0",
+    "chalk": "^4.1.0",
     "commander": "^5.1.0",
     "handlebars": "^4.7.6",
     "hbs": "^4.1.1",
